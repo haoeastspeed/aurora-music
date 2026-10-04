@@ -2,12 +2,12 @@
 
 > 一款**完全原生自研**的 Windows 音乐播放器：单文件、零第三方依赖、绿色运行，解码能力强、音效专业、界面简洁美观，并支持在线音源与自定义音源、自动更新。
 
-![版本](https://img.shields.io/badge/版本-1.0.0-2DD4BF) ![平台](https://img.shields.io/badge/平台-Windows%207%2F8%2F10%2F11-5B8DEF) ![依赖](https://img.shields.io/badge/第三方依赖-0-A855F7) ![许可](https://img.shields.io/badge/许可-免费使用-6366F1)
+![版本](https://img.shields.io/badge/版本-1.1.0-2DD4BF) ![平台](https://img.shields.io/badge/平台-Windows%207%2F8%2F10%2F11-5B8DEF) ![依赖](https://img.shields.io/badge/第三方依赖-0-A855F7) ![许可](https://img.shields.io/badge/许可-免费使用-6366F1)
 
 ## 下载
 
-- **最新版本：[v1.0.0](https://github.com/haoeastspeed/aurora-music/releases/latest)**
-- 直接下载：[`AuroraMusic.exe`](https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.0/AuroraMusic.exe)
+- **最新版本：[v1.1.0](https://github.com/haoeastspeed/aurora-music/releases/latest)**
+- 直接下载：[`AuroraMusic.exe`](https://github.com/haoeastspeed/aurora-music/releases/download/v1.1.0/AuroraMusic.exe)
 - 产品主页：<https://haoeastspeed.github.io/aurora-music/>
 
 下载后双击即可运行，无需安装、无需运行库（系统自带 .NET Framework 4.x）。
@@ -22,6 +22,8 @@
 - **在线音源**：接入网易云公开接口、苹果官方预览，以及 Audius、ccMixter 上由艺术家授权或属于知识共享（CC）协议的资源。
 - **自定义音源**：支持以 JavaScript 脚本（兼容落雪音源脚本的事件 / CommonJS 形态）导入合法音源，可添加多个、按源名称独立显示；脚本也可自定义搜索与推荐。
 - **本地音乐管理**：多文件夹扫描与实时监听、标签 / 封面写回、批量重命名、智能歌单、播放统计、ReplayGain 响度扫描。
+- **媒体库工具箱**：格式转换 / 转码（WAV、MP3、M4A、WMA、FLAC）、自研**无损 FLAC 编码**、MusicBrainz 在线标签与封面补全、重复文件检测、缺失标签 / 封面清理向导、按标签自动归档移动。
+- **外观与无障碍**：深色 / 浅色双主题、8 套强调配色自由切换；支持键盘焦点导航、UI Automation 与触屏热区，高 DPI 下清晰锐利。
 - **便捷能力**：全局快捷键与多媒体键、迷你模式、睡眠定时、记忆播放、高 DPI 适配、**GitHub 自动更新**。
 
 ## 自动更新
