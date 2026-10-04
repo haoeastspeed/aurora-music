@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.1.0/AuroraMusic.exe",
-  "notes": "v1.1.0：新增媒体库工具箱（格式转换/转码、自研无损 FLAC 编码、MusicBrainz 在线标签与封面补全、重复文件检测、缺失标签清理向导、按标签归档），并带来深浅双主题、8 套强调色与无障碍/触屏增强。",
-  "size": 591360,
-  "sha256": "912A4DC06F9B4519A1E92B8FB4CC01CDB0D113774E9BF324D7C7D57937E6BA6C",
+  "version": "1.2.0",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.0/AuroraMusic.exe",
+  "notes": "v1.2.0：无歌词时自动在线搜索匹配（时长智能对齐）；新增「搜索歌词」对话框，可在线检索多个版本、预览并一键替换；歌词自动缓存绑定、离线可用，可清除重配。",
+  "size": 599552,
+  "sha256": "17FD1775A49845C6606069B9DADD09EAEEE30BCCD3A351CC2AA7C97058682D97",
   "publishedAt": "2026-10-05"
 }
