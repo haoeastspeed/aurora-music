@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.0/AuroraMusic.exe",
-  "notes": "首个公开发布版本：原生自研内核、强解码、10 段 EQ 与专业音效、多种频谱、桌面歌词、在线音源与自定义 JS 音源、自动更新。",
-  "size": 536064,
-  "sha256": "3b07f12a8e287c970bb4c9dda3bc0e2be16c2b4d8fc7f725133a99366cc4fb70",
-  "publishedAt": "2026-10-04"
+  "version": "1.1.0",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.1.0/AuroraMusic.exe",
+  "notes": "v1.1.0：新增媒体库工具箱（格式转换/转码、自研无损 FLAC 编码、MusicBrainz 在线标签与封面补全、重复文件检测、缺失标签清理向导、按标签归档），并带来深浅双主题、8 套强调色与无障碍/触屏增强。",
+  "size": 591360,
+  "sha256": "912A4DC06F9B4519A1E92B8FB4CC01CDB0D113774E9BF324D7C7D57937E6BA6C",
+  "publishedAt": "2026-10-05"
 }
