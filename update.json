@@ -1,8 +1,8 @@
 {
-  "version": "1.2.6",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.6/AuroraMusic.exe",
-  "notes": "v1.2.6：修复切换到除「标准」外的音效场景后无声（低音搁架在 Q=0.707 时极点超出单位圆导致信号发散为 NaN，搁架改为数学上保证稳定、增益单调的一阶 Shelf1）；音效按钮改为再次点击即可关闭；加固播放链路——音源未返回地址时给出明确提示，音效处理异常不再使播放线程中断。",
-  "size": 603136,
-  "sha256": "D311AC55F50779B3B3C9FBB51DF2265CCAC2BB702A9A5FC6E84D95BC2D4D3C1E",
+  "version": "1.2.7",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.7/AuroraMusic.exe",
+  "notes": "v1.2.7：彻底修复切换到含混响/回声的音效场景（演唱会、KTV、空灵、音乐厅、耳机空间等）后无声或异常——梳状滤波反馈环路在大房间参数下增益大于 1 导致信号发散，重构为环路增益恒小于 1 的稳定结构，12 种场景电平全部恢复正常；音效按钮再次点击即可关闭；重新设计迷你模式窗口：封面占位、布局完整不裁切、拖动顺畅、新增右键菜单（含还原/退出），绝不会被困无法关闭；加固播放链路，音源未返回地址时给出明确提示，音效处理异常不再中断播放。",
+  "size": 604672,
+  "sha256": "B20E189E7D3FCA099CD9D5FEA43F7CD519D3D5BC6D9ED775499B46A74C69A0BB",
   "publishedAt": "2026-10-05"
 }
