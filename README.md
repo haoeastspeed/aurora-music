@@ -6,8 +6,8 @@
 
 ## 下载
 
-- **最新版本：[v1.3.4](https://github.com/haoeastspeed/aurora-music/releases/latest)**
-- 直接下载：[`AuroraMusic.exe`](https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.4/AuroraMusic.exe)
+- **最新版本：[v1.3.5](https://github.com/haoeastspeed/aurora-music/releases/latest)**
+- 直接下载：[`AuroraMusic.exe`](https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.5/AuroraMusic.exe)
 - 产品主页：<https://haoeastspeed.github.io/aurora-music/>
 
 下载后双击即可运行，无需安装、无需运行库（系统自带 .NET Framework 4.x）。
