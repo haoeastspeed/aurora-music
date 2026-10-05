@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.3/AuroraMusic.exe",
-  "notes": "v1.2.3：修复音源管理删除/添加/导入音源后刷新列表时报「指定的索引已经在使用」；改为先移除再在原位插入，刷新稳定。",
-  "size": 600064,
-  "sha256": "EAD577B590B6D6147C7A941B15A94DED321DC897F6299459EFECB308A3A76D12",
+  "version": "1.2.4",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.4/AuroraMusic.exe",
+  "notes": "v1.2.4：修复落雪 JS 音源解析播放地址时未传曲目 id（hash/songmid）导致请求 /url/平台/undefined 失败；在线 URL 导入在 raw.githubusercontent.com 直连失败时自动回退 jsDelivr / GitHub Contents API；错误提示更明确。",
+  "size": 602112,
+  "sha256": "81BBCE724ED2C33EDBDE95A7FB8010CEA8073B06D5BBF5AA97B7AB68FE05C540",
   "publishedAt": "2026-10-05"
 }
