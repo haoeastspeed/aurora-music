@@ -1,8 +1,8 @@
 {
   "version": "1.2.5",
   "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.5/AuroraMusic.exe",
-  "notes": "v1.2.5：修复打开软件/弹出确认框、更新窗口时报「值不能为 null。参数名: handler」——按钮以 null 占位（稍后绑定 Click 或由 IsCancel 处理）时不再向 AddHandler 传入 null。",
+  "notes": "v1.2.5：修复打开软件/弹出确认框、更新窗口时报「值不能为 null。参数名: handler」——按钮以 null 占位（稍后绑定 Click 或由 IsCancel 处理）时不再向 AddHandler 传入 null；同步修正内部版本号，避免自动更新重复提示。",
   "size": 602112,
-  "sha256": "A979D17138751AD29086BC7A3F2B9971173793604095651451C6696A0C364649",
+  "sha256": "23FA3619239DE7B8DBF283061A44AD9F6FFFC48D75FC62FA30B7F5C079FF437E",
   "publishedAt": "2026-10-05"
 }
