@@ -1,8 +1,8 @@
 {
-  "version": "1.2.9",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.9/AuroraMusic.exe",
-  "notes": "v1.2.9：① 播放进度条改为独立整行、全宽置顶，轨道加粗更易点击，彻底解决进度条过短；② 下载管理新增「全部 / 下载中 / 已完成」分类标签，按状态筛选并给出对应空状态提示；③ 全站文字启用 ClearType + 像素级 Display 渲染，小字号更锐利清晰，并提高空态等次要文字对比度；④ 默认窗口尺寸进一步精简为 980×660，更紧凑省空间。",
-  "size": 606720,
-  "sha256": "9DB62A55083916708EABF7E4D4DFC9A3910AEC709CB5FCAB61A0D526932176C4",
+  "version": "1.3.0",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.0/AuroraMusic.exe",
+  "notes": "v1.3.0 自适应布局：① 迷你窗改为标准 DWM 非分层渲染，彻底修复高 DPI（如 150%）下封面/标题丢失、内容错位、无法操作的问题，任何缩放下都清晰可拖；② 播放控制栏改为弹性五列布局并按窗口宽度自适应，宽度变窄时自动收起功能按钮文字、压缩音量条，三区永不重叠；③ 修复缩小窗口后播放键压到收藏键、标题被挤没；④ 我的音乐标题固定可见，搜索框弹性收缩、空间不足时干净隐藏；⑤ 曲目列表按宽度自适应，过窄时先隐专辑、再隐艺术家列，把空间优先让给歌名。",
+  "size": 608256,
+  "sha256": "1442D057A02E04217F34F2C64A3C38BCB3888891EC55A1109C946B023BF6DE8F",
   "publishedAt": "2026-10-05"
 }
