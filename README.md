@@ -2,12 +2,12 @@
 
 > 一款**完全原生自研**的 Windows 音乐播放器：单文件、零第三方依赖、绿色运行，解码能力强、音效专业、界面简洁美观，并支持在线音源与自定义音源、自动更新。
 
-![版本](https://img.shields.io/badge/版本-1.2.3-2DD4BF) ![平台](https://img.shields.io/badge/平台-Windows%207%2F8%2F10%2F11-5B8DEF) ![依赖](https://img.shields.io/badge/第三方依赖-0-A855F7) ![许可](https://img.shields.io/badge/许可-免费使用-6366F1)
+![版本](https://img.shields.io/badge/版本-1.2.4-2DD4BF) ![平台](https://img.shields.io/badge/平台-Windows%207%2F8%2F10%2F11-5B8DEF) ![依赖](https://img.shields.io/badge/第三方依赖-0-A855F7) ![许可](https://img.shields.io/badge/许可-免费使用-6366F1)
 
 ## 下载
 
-- **最新版本：[v1.2.3](https://github.com/haoeastspeed/aurora-music/releases/latest)**
-- 直接下载：[`AuroraMusic.exe`](https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.3/AuroraMusic.exe)
+- **最新版本：[v1.2.4](https://github.com/haoeastspeed/aurora-music/releases/latest)**
+- 直接下载：[`AuroraMusic.exe`](https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.4/AuroraMusic.exe)
 - 产品主页：<https://haoeastspeed.github.io/aurora-music/>
 
 下载后双击即可运行，无需安装、无需运行库（系统自带 .NET Framework 4.x）。
