@@ -1,8 +1,8 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.3/AuroraMusic.exe",
-  "notes": "v1.3.3 迷你模式全面升级：① 修复右键菜单显示异常（图标位白块、菜单项不全、位置偏离），改用全站统一的深色圆角菜单，并在打开时实时刷新；② 新增播放列表按钮与队列弹层，可查看完整播放队列、点击任意曲目直接切歌，靠近屏幕顶部时自动向下弹出；③ 新增锁定/解锁位置，锁定后窗口不可拖动，按钮仍可操作；④ 新增桌面歌词一键开关，激活时图标高亮；⑤ UI 重排更精致：圆形渐变播放键、加大圆角封面、顶部品牌渐变描边、更清晰的标题/艺人层级。",
+  "version": "1.3.4",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.4/AuroraMusic.exe",
+  "notes": "v1.3.4 在线音乐布局优化：① 大标题与搜索框合并到同一行，结构更紧凑；② 缩小音源分类标签与下方榜单之间的空白；③ 状态提示为空时自动折叠，不再占位；④ 榜单每源展示数量增加，一屏可见更多曲目。",
   "size": 637440,
-  "sha256": "98304685D64E2421E48FD908A682B2A251FA66F9FED2FDDCD1543F5EEB84CFAF",
+  "sha256": "907BCA25AD8C07602CD810601C87F55E8E64BCE62F2FD188BB7CFC22E235790B",
   "publishedAt": "2026-10-05"
 }
