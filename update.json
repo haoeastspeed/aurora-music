@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.0/AuroraMusic.exe",
-  "notes": "v1.2.0：无歌词时自动在线搜索匹配（时长智能对齐）；新增「搜索歌词」对话框，可在线检索多个版本、预览并一键替换；歌词自动缓存绑定、离线可用，可清除重配。",
+  "version": "1.2.1",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.1/AuroraMusic.exe",
+  "notes": "v1.2.1：修复音源管理删除自定义源/脚本时快速或重复点击导致的「索引超出范围」报错（改为按对象移除，操作幂等）。",
   "size": 599552,
-  "sha256": "17FD1775A49845C6606069B9DADD09EAEEE30BCCD3A351CC2AA7C97058682D97",
+  "sha256": "AFD2539E239B38915D139A28B6E4A1A1871F735D795523681ECF61D22B8DBD12",
   "publishedAt": "2026-10-05"
 }
