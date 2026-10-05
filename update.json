@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.2/AuroraMusic.exe",
-  "notes": "v1.2.2：音源脚本导入去重（相同代码/同名同版本更新而非新增），修复重复导入导致的重复标签与「指定的索引已经在使用」脚本加载错误；标签名防御性去重。",
+  "version": "1.2.3",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.3/AuroraMusic.exe",
+  "notes": "v1.2.3：修复音源管理删除/添加/导入音源后刷新列表时报「指定的索引已经在使用」；改为先移除再在原位插入，刷新稳定。",
   "size": 600064,
-  "sha256": "B528DFBB0AADFAB6185488670171FC7DC4C7B41818CAFF528F60907A141AF671",
+  "sha256": "EAD577B590B6D6147C7A941B15A94DED321DC897F6299459EFECB308A3A76D12",
   "publishedAt": "2026-10-05"
 }
