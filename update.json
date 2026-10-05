@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.4/AuroraMusic.exe",
-  "notes": "v1.2.4：修复落雪 JS 音源解析播放地址时未传曲目 id（hash/songmid）导致请求 /url/平台/undefined 失败；在线 URL 导入在 raw.githubusercontent.com 直连失败时自动回退 jsDelivr / GitHub Contents API；错误提示更明确。",
+  "version": "1.2.5",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.2.5/AuroraMusic.exe",
+  "notes": "v1.2.5：修复打开软件/弹出确认框、更新窗口时报「值不能为 null。参数名: handler」——按钮以 null 占位（稍后绑定 Click 或由 IsCancel 处理）时不再向 AddHandler 传入 null。",
   "size": 602112,
-  "sha256": "81BBCE724ED2C33EDBDE95A7FB8010CEA8073B06D5BBF5AA97B7AB68FE05C540",
+  "sha256": "A979D17138751AD29086BC7A3F2B9971173793604095651451C6696A0C364649",
   "publishedAt": "2026-10-05"
 }
