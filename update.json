@@ -1,8 +1,8 @@
 {
-  "version": "1.3.7",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.7/AuroraMusic.exe",
-  "notes": "v1.3.7 桌面歌词与迷你窗优化：①修复从迷你窗首次开启桌面歌词不显示——显示后强制置顶/激活/重绘，并把记忆位置夹紧到工作区（换分辨率或 DPI 后不再跑到屏幕外）；②工具栏紧凑化，锁定/关闭改为图标，最小窗宽下也完整不裁剪；③迷你窗在保持高 DPI 稳定的同时启用 Windows 11 系统原生圆角。",
+  "version": "1.3.8",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.8/AuroraMusic.exe",
+  "notes": "v1.3.8 桌面歌词体验完善：①修复鼠标滑向工具栏时按钮中途淡出、显示不完整——根容器改为透明但可命中，鼠标经过空白区也保持在窗口内，且鼠标停在工具栏上时强制保持显示；②默认打开且未播放时不再只剩一个孤音符，改为淡色胶囊提示「♪ 还没有播放歌曲」，播放中无词则提示「♪ 暂无歌词」；③去除左侧导航与标题栏重复的品牌标题，导航直接从菜单项开始，纵向空间更充裕。",
   "size": 640000,
-  "sha256": "593A93AE275CFE97DD8FB06AA02EAE22A9F52DF88979D638AA7D8FE05647D061",
+  "sha256": "1D763C5DE05235C5BBC1ADE0D845B884D146C56F64B4F570EF575516A4E19DD3",
   "publishedAt": "2026-10-05"
 }
