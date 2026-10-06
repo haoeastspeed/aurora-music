@@ -1,8 +1,8 @@
 {
-  "version": "1.3.18",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.18/AuroraMusic.exe",
-  "notes": "v1.3.18 播放按钮重新设计：放弃易产生对齐偏差的 24 网格缩放方案，改为在按钮坐标系内直接手工绘制的圆角三角形播放 glyph（圆角连接，质感更接近主流专业播放器）。经像素级测量，三角底边与尖端到圆边的左右间隙基本相等（约 3% 直径差，用于补偿重底边的光学偏差），上下居中；暂停态为对称的双圆角竖条。",
-  "size": 646656,
-  "sha256": "0656717CC1607AC372DDE3E6A8F134C9979F43E5D1B3E33D5D24A01030C7E008",
+  "version": "1.3.19",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.19/AuroraMusic.exe",
+  "notes": "v1.3.19 全部传输按钮图标统一重设计：播放 / 暂停 / 上一首 / 下一首改为同一套手工绘制的圆角 glyph，视觉权重与圆角半径一致；主播放三角放大（高度约为圆直径的 58%），经像素级测量光学居中。主窗口播放栏、迷你窗、桌面歌词工具条三处的播放控制图标全部同步为新风格。",
+  "size": 647680,
+  "sha256": "A902F0BFE122DA4AFECACD578DE76D147A1DD2988C01708524CB329140B75BB8",
   "publishedAt": "2026-10-06"
 }
