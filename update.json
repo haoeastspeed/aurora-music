@@ -1,8 +1,8 @@
 {
-  "version": "1.3.14",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.14/AuroraMusic.exe",
-  "notes": "v1.3.14 桌面歌词模式与菜单修复：①修复桌面歌词“更多”菜单文字颜色异常（浅底浅字、几乎看不清），现统一为深色菜单、文字清晰；②桌面歌词新增两种显示模式——单行模式（紧凑、仅当前行）与多行（可调整大小）模式：下缘拖拽改变高度，随框高显示多行歌词，当前行始终垂直居中并高亮，上下各行逐级变暗，翻译以青色内联显示；模式切换位于工具条“⋯ 更多”菜单，宽度仍可在右缘拖拽。",
+  "version": "1.3.15",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.15/AuroraMusic.exe",
+  "notes": "v1.3.15 桌面歌词工具条交互优化：打开“更多”菜单点选模式切换、字号±、切换底色时，工具条（控制条）在菜单打开期间保持显示、不再自动隐藏，可从容连续调整；菜单关闭后恢复宽限自动隐藏。",
   "size": 646144,
-  "sha256": "27D8FC2ADE06A29755B182D0B58196CFAC869ECF46ADEB4BF550334A481DC56A",
+  "sha256": "36DAA9C613B449BE1DDCED6958EA3D2F37CC69122E97AB0E7DCB5CE0C857CE8F",
   "publishedAt": "2026-10-06"
 }
