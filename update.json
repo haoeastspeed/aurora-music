@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.2/AuroraMusic.exe",
-  "notes": "缺陷修复与体验优化。1) 标签写回：兼容带 ID3v2 前缀的 FLAC，写入前定位 fLaC 并做块越界校验，修复“标签写入失败”；2) 标签读取：ID3v2 文本改为 BOM 感知，正确解码 UTF-16 大端内容，修复歌名/艺术家乱码，并可读取 ID3 前缀后内嵌的 FLAC 标签与时长；3) 桌面歌词多行模式：换名不再闪烁，改为歌词整体向上平滑滚动，并对每一行（而非整体）做淡入淡出，拖动进度等跳变时直接定位。",
-  "size": 668672,
-  "sha256": "960E415B8A572B76A6FCD1A52437B903464645138D364AA3B9A11F90D8AEB051",
+  "version": "1.0.3",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.3/AuroraMusic.exe",
+  "notes": "内存与启动优化。1) Media Foundation 解码平台延迟到首次播放才初始化、且全程只启停一次，降低空闲占用与峰值内存，启动更快；2) 新增工作集自动裁剪：首次渲染后、扫描完成、窗口最小化、驻留托盘时自动归还物理内存，任务管理器显示的物理内存由约 195MB 降至约 14MB；3) 内嵌封面统一生成 256px 缩略图并按内容共享，曲库含大量大封面时显著省内存。",
+  "size": 670720,
+  "sha256": "52E818087F5863EA8C018E917E0663DE561E5A288328FF68AB8401866E3F7047",
   "publishedAt": "2026-10-06"
 }
