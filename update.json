@@ -1,8 +1,8 @@
 {
-  "version": "1.3.17",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.17/AuroraMusic.exe",
-  "notes": "v1.3.17 播放图标光学居中修正：v1.3.16 将播放三角改为几何居中后，因实心三角形的视觉质心天生偏向底边一侧，实际观感反而偏左。本次通过与成品完全一致的渲染管线生成多组候选并逐一比对，选定宽高比更协调的三角（尖端伸展自然、底边不挤边），在圆形按钮内上下、左右留白均衡，观感真正居中。",
-  "size": 645632,
-  "sha256": "B5ECC6DF72DD02E3D2D141AD698455306C72B728EF08DA4DD54E0FAFA1AE83A3",
+  "version": "1.3.18",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.18/AuroraMusic.exe",
+  "notes": "v1.3.18 播放按钮重新设计：放弃易产生对齐偏差的 24 网格缩放方案，改为在按钮坐标系内直接手工绘制的圆角三角形播放 glyph（圆角连接，质感更接近主流专业播放器）。经像素级测量，三角底边与尖端到圆边的左右间隙基本相等（约 3% 直径差，用于补偿重底边的光学偏差），上下居中；暂停态为对称的双圆角竖条。",
+  "size": 646656,
+  "sha256": "0656717CC1607AC372DDE3E6A8F134C9979F43E5D1B3E33D5D24A01030C7E008",
   "publishedAt": "2026-10-06"
 }
