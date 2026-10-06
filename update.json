@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.3/AuroraMusic.exe",
-  "notes": "内存与启动优化。1) Media Foundation 解码平台延迟到首次播放才初始化、且全程只启停一次，降低空闲占用与峰值内存，启动更快；2) 新增工作集自动裁剪：首次渲染后、扫描完成、窗口最小化、驻留托盘时自动归还物理内存，任务管理器显示的物理内存由约 195MB 降至约 14MB；3) 内嵌封面统一生成 256px 缩略图并按内容共享，曲库含大量大封面时显著省内存。",
-  "size": 670720,
-  "sha256": "52E818087F5863EA8C018E917E0663DE561E5A288328FF68AB8401866E3F7047",
+  "version": "1.0.4",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.4/AuroraMusic.exe",
+  "notes": "体验增强与问题修复。1) 修复个别 MP3 时长识别为 0:00（无 TLEN 标签时按 Xing 帧数 / CBR 码率估算）；2) 在线下载支持选择音质：无损 FLAC / 极高 320k / 标准 128k；3) 歌曲列表支持 Ctrl/Shift 多选，右键批量加入歌单、批量收藏、批量下载；4) 缺封面的本地曲目后台自动在线匹配专辑封面（本地缓存、可在设置关闭）；5) 频谱随窗口大小自适应，右键可切换 6 种样式并进入全屏频谱；6) 主窗口歌词右键可调整字体大小与当前行颜色；7) 修复音效窗口关闭后按钮仍高亮、歌单移除歌曲后仍显示，收窄设置下拉框，合并重复的托盘开关。",
+  "size": 688128,
+  "sha256": "CE2195FCF45E486846878A3543EAEBB21FEF05C4DE709BC11CD9DA6EC734D228",
   "publishedAt": "2026-10-06"
 }
