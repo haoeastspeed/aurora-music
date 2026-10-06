@@ -1,8 +1,8 @@
 {
-  "version": "1.3.15",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.15/AuroraMusic.exe",
-  "notes": "v1.3.15 桌面歌词工具条交互优化：打开“更多”菜单点选模式切换、字号±、切换底色时，工具条（控制条）在菜单打开期间保持显示、不再自动隐藏，可从容连续调整；菜单关闭后恢复宽限自动隐藏。",
-  "size": 646144,
-  "sha256": "36DAA9C613B449BE1DDCED6958EA3D2F37CC69122E97AB0E7DCB5CE0C857CE8F",
+  "version": "1.3.16",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.3.16/AuroraMusic.exe",
+  "notes": "v1.3.16 图标对齐修复：对全部传输控制按钮与品牌标识进行排查。主播放圆形按钮中的播放三角此前沿用 Material 方形图标栏的右偏几何，在圆形按钮内明显偏心（偏右、略偏上）；上一首/下一首也存在约 1 的偏移。现重新绘制为几何居中、左右对称的播放/上一首/下一首图标，暂停与品牌标识核对居中，各按钮在圆形/方形底内均居中显示。",
+  "size": 645632,
+  "sha256": "AA9C03C5A64141DC2DF22ED0C2801A194C8081CBCB8FA4BE9AA2AC09002214A9",
   "publishedAt": "2026-10-06"
 }
