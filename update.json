@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.4/AuroraMusic.exe",
-  "notes": "体验增强与问题修复。1) 修复个别 MP3 时长识别为 0:00（无 TLEN 标签时按 Xing 帧数 / CBR 码率估算）；2) 在线下载支持选择音质：无损 FLAC / 极高 320k / 标准 128k；3) 歌曲列表支持 Ctrl/Shift 多选，右键批量加入歌单、批量收藏、批量下载；4) 缺封面的本地曲目后台自动在线匹配专辑封面（本地缓存、可在设置关闭）；5) 频谱随窗口大小自适应，右键可切换 6 种样式并进入全屏频谱；6) 主窗口歌词右键可调整字体大小与当前行颜色；7) 修复音效窗口关闭后按钮仍高亮、歌单移除歌曲后仍显示，收窄设置下拉框，合并重复的托盘开关。",
-  "size": 688128,
-  "sha256": "CE2195FCF45E486846878A3543EAEBB21FEF05C4DE709BC11CD9DA6EC734D228",
-  "publishedAt": "2026-10-06"
+  "version": "1.0.5",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.5/AuroraMusic.exe",
+  "notes": "修复快速切歌后可能出现的无声、进度条飞快问题。当音频输出在大量快速切换/驱动抖动后进入“缓冲瞬间完成、不实时播放”的异常态时，引擎会检测到解码时长与实际耗时严重不符，自动彻底重建输出设备并恢复播放（最多重试两次，仍异常则安全停止并提示），不再无声快进。",
+  "size": 689152,
+  "sha256": "E0859730A4495CD66416ADA71CBBD057DF30C361F6ACBCA8AEC1C40B10363F51",
+  "publishedAt": "2026-10-07"
 }
