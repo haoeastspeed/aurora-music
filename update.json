@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.6/AuroraMusic.exe",
-  "notes": "界面布局修复：“我的音乐”标题行改为响应式，窗口/中间区域变窄时自动把工具箱、入库时长过滤、定位当前等次要操作收进“更多”菜单；空间极窄时筛选框收为搜索图标，点击弹出筛选。任何宽度下搜索框与按钮都不再被遮挡或裁切。",
-  "size": 690688,
-  "sha256": "CE9BFA642BB049BA157619F2065F84D3D7ACAA2859ABA02A2E4D123B9E8D888B",
+  "version": "1.0.7",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.7/AuroraMusic.exe",
+  "notes": "布局自适应修复：①关闭右侧歌词后，歌曲列表自动拉伸填满窗口，滚动条回到边缘；②关闭频谱后，歌词区自动填满整个面板；③频谱双击进入全屏，全屏状态双击或按 Esc 退出；④新增“重新扫描”按钮（头部及“更多”菜单均可）。",
+  "size": 691712,
+  "sha256": "AFF2DFDC2D4AA036A7A3F825046CC7414DF0029CB726B327C626793330A96668",
   "publishedAt": "2026-10-07"
 }
