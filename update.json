@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.5/AuroraMusic.exe",
-  "notes": "修复快速切歌后可能出现的无声、进度条飞快问题。当音频输出在大量快速切换/驱动抖动后进入“缓冲瞬间完成、不实时播放”的异常态时，引擎会检测到解码时长与实际耗时严重不符，自动彻底重建输出设备并恢复播放（最多重试两次，仍异常则安全停止并提示），不再无声快进。",
-  "size": 689152,
-  "sha256": "E0859730A4495CD66416ADA71CBBD057DF30C361F6ACBCA8AEC1C40B10363F51",
+  "version": "1.0.6",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.6/AuroraMusic.exe",
+  "notes": "界面布局修复：“我的音乐”标题行改为响应式，窗口/中间区域变窄时自动把工具箱、入库时长过滤、定位当前等次要操作收进“更多”菜单；空间极窄时筛选框收为搜索图标，点击弹出筛选。任何宽度下搜索框与按钮都不再被遮挡或裁切。",
+  "size": 690688,
+  "sha256": "CE9BFA642BB049BA157619F2065F84D3D7ACAA2859ABA02A2E4D123B9E8D888B",
   "publishedAt": "2026-10-07"
 }
