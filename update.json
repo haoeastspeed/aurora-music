@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.9/AuroraMusic.exe",
-  "notes": "标签/专辑封面/歌词在线匹配升级为 QQ音乐、酷狗、网易云三源并行，智能评分优选，匹配更准更快；手动搜索与批量补全统一三源聚合，国内 CDN 直连，未命中回退 MusicBrainz/CAA。",
-  "size": 715264,
-  "sha256": "6B62CC121C4427BED43BA7372426236C09D67509F8A47D77B4AE564B913C092A",
+  "version": "1.0.10",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.10/AuroraMusic.exe",
+  "notes": "修复启动时偶发的空白首屏；新增首帧呈现看门狗，界面空白时自动强制重绘，必要时切换软件渲染并自愈；远程会话自动软件渲染；设置新增软件渲染开关（故障排查）。",
+  "size": 719872,
+  "sha256": "F2BC2BE2517763C2616DAB487935A6207751420A64150D2D52E2517EC8CC6F58",
   "publishedAt": "2026-10-08"
 }
