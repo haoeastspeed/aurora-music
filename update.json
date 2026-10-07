@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.7/AuroraMusic.exe",
-  "notes": "布局自适应修复：①关闭右侧歌词后，歌曲列表自动拉伸填满窗口，滚动条回到边缘；②关闭频谱后，歌词区自动填满整个面板；③频谱双击进入全屏，全屏状态双击或按 Esc 退出；④新增“重新扫描”按钮（头部及“更多”菜单均可）。",
-  "size": 691712,
-  "sha256": "AFF2DFDC2D4AA036A7A3F825046CC7414DF0029CB726B327C626793330A96668",
-  "publishedAt": "2026-10-07"
+  "version": "1.0.8",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.8/AuroraMusic.exe",
+  "notes": "在线音源大升级：①新增 QQ音乐、酷狗音乐公开搜索与榜单；②音源线路按平台路由，兼容落雪自定义音源脚本，播放/下载实时解析；③修复自定义音源与内置列表雷同；④线路选择持久化；⑤转码 MP3/WAV/FLAC 全部通过。",
+  "size": 705024,
+  "sha256": "ED992E5159B29E1839E4DDA52D88980EC55119B69551EC91682724E6EAC9FD75",
+  "publishedAt": "2026-10-08"
 }
