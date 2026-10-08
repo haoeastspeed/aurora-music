@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.10/AuroraMusic.exe",
-  "notes": "修复启动时偶发的空白首屏；新增首帧呈现看门狗，界面空白时自动强制重绘，必要时切换软件渲染并自愈；远程会话自动软件渲染；设置新增软件渲染开关（故障排查）。",
-  "size": 719872,
-  "sha256": "F2BC2BE2517763C2616DAB487935A6207751420A64150D2D52E2517EC8CC6F58",
+  "version": "1.0.11",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.11/AuroraMusic.exe",
+  "notes": "榜单支持分页加载：酷狗TOP500可逐页加载全部500首，QQ热歌榜完整展示100首；新增播放自动逐级回退——选定音源线路无地址时，自动尝试官方及其它可用音源线路，绝大多数歌曲无需手动换源即可播放与下载（含无损FLAC）。",
+  "size": 723456,
+  "sha256": "880AF51D0B26ED446D4DF9C23431A0BF5992369217BDF8DABAF268ADE786FF73",
   "publishedAt": "2026-10-08"
 }
