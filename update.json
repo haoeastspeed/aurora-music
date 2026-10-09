@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.11/AuroraMusic.exe",
-  "notes": "榜单支持分页加载：酷狗TOP500可逐页加载全部500首，QQ热歌榜完整展示100首；新增播放自动逐级回退——选定音源线路无地址时，自动尝试官方及其它可用音源线路，绝大多数歌曲无需手动换源即可播放与下载（含无损FLAC）。",
-  "size": 723456,
-  "sha256": "880AF51D0B26ED446D4DF9C23431A0BF5992369217BDF8DABAF268ADE786FF73",
-  "publishedAt": "2026-10-08"
+    "size":  741888,
+    "version":  "1.0.12",
+    "sha256":  "53EB6F26498148FCB5A013DCB307851CBB6745AD3DC607FB524E779AFE61E2FA",
+    "publishedAt":  "2026-10-10",
+    "url":  "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.12/AuroraMusic.exe",
+    "notes":  "音源：移除内置在线源标签，内置六音官方自定义源，默认热榜改为QQ音乐热歌榜Top50，播放/下载经六音换源；音效窗口重排并新增高级音效、主按钮可开关；桌面歌词新增底色方案、宽度自适应、置顶与图钉锁定；快捷键全面增强；音乐库新增列表记忆，启动约40ms直载并后台增量对账，添加按钮带下拉菜单；修复渲染看门狗离屏误判。"
 }
