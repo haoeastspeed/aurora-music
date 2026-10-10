@@ -1,8 +1,9 @@
 {
-  "version": "1.0.19",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.19/AuroraMusic.exe",
-  "notes": "v1.0.19 更新：\n1. 下载音质据实呈现：打开下载菜单时顺序实测 无损FLAC/320k/128k，仅列出真正解析成功、地址已就绪的音质，彻底去除“声明却给不出”的假音质（Master/Atmos/Hi-Res 等）。\n2. 酷我音源可下载真无损 FLAC（已验证文件 fLaC 魔数）；QQ 音源据实仅提供 128kbps。\n3. 修复榜单每行预建菜单导致数百并发解析、线程池饥饿、菜单一直停在“正在解析”的问题，改为展开下载子菜单时才解析一次。\n4. 内置六音音源去重，消除两个同名“六音音源”导致的路由与音质混乱。\n5. 修复音效切换无声、音效窗口关闭后按钮仍高亮等问题。",
-  "size": 775168,
-  "sha256": "10518F410266E66418E3262DE7680B86A902E2E9C729672529B80D3AF49EC9DB",
-  "publishedAt": "2026-10-10"
+  "version": "1.0.20",
+  "releaseUrl": "https://github.com/haoeastspeed/aurora-music/releases/tag/v1.0.20",
+  "downloadUrl": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.20/AuroraMusic.exe",
+  "size": 781824,
+  "sha256": "F9A9D5BA29CF8F154F882BBF74A53F565B4C70342D35EBCDC2E8C3E6343C9B15",
+  "publishedAt": "2026-10-10",
+  "notes": "极光音乐 v1.0.20\n\n本次更新（资源占用与在线体验）：\n- 封面解码只保留可见行，滚动回收，列表位图降宽，内存峰值明显下降\n- 封面去重表加上限并在扫描后清理\n- 频谱 Hann 窗预计算、去除每帧冗余裁剪、暂停/停止后空闲挂起\n- 音源多后端健康测速与失败自动切换，切歌预解析提速\n- 歌词自动匹配增强，支持翻译/罗马音双行\n\n下载后如被 Windows 标记，右键文件属性解除锁定即可。"
 }
