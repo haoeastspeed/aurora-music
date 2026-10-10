@@ -1,8 +1,8 @@
 {
-  "version": "1.0.16",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.16/AuroraMusic.exe",
-  "notes": "- 修复切换主题/配色报“只读状态”，换肤即时生效\n- QQ音乐热歌榜返回完整 Top100\n- 修复启动后桌面歌词按钮仍显开启态\n- 本地音乐库启动即刻显示，仅首次扫描",
-  "size": 755712,
-  "sha256": "4C1F5968A1B226C37EAB6E62448D9ED9CFF8D88B0AD4A1D356D5B408235588AD",
+  "version": "1.0.17",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.17/AuroraMusic.exe",
+  "notes": "- 在线搜索支持无限滚动，滚动近底自动加载下一页，不再停在约50首\n- 发起新搜索/换源后结果自动回到顶部\n- 在线与本地歌曲列表新增列标题栏，点击标题（标题/艺术家/专辑/时长）即可排序\n- 桌面歌词右键菜单按使用频率重组，高频项一级直达\n- 频谱随窗口与分隔条自动填满，并新增6套频谱配色（右键切换）",
+  "size": 762368,
+  "sha256": "CFC01EACB7D50C518E24E996D3DD8123AF23CF72A19F80C5683C15A8F9882357",
   "publishedAt": "2026-10-10"
 }
