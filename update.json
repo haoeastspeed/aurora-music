@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.13/AuroraMusic.exe",
-  "size": 741888,
-  "sha256": "E694013820D93D583C2BCE5B87495A273E2B977FB798D584011498C718210265",
+  "version": "1.0.14",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.14/AuroraMusic.exe",
+  "size": 747520,
+  "sha256": "525CC6D80751F85596E8AD966D3F5F1D485438E0DBA5CCAAECC7E9382C2AB910",
   "publishedAt": "2026-10-10",
-  "notes": "修复在线音乐热歌榜列表点击无响应（空结果层拦截鼠标事件）；自更新原地覆盖，保留本地中文文件名「极光音乐.exe」。"
+  "notes": "榜单统一由内置六音音源解析（默认QQ音乐，新增酷狗/网易云/酷我榜单，激活才懒加载）；在线页可切换已导入音源；下载音质按音源实际返回动态显示；列表双击播放并补右键；桌面歌词宽度自适应加上限，右键新增“更多”子菜单。"
 }
