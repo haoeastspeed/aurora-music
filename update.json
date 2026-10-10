@@ -1,8 +1,8 @@
 {
-    "size":  741888,
-    "version":  "1.0.12",
-    "sha256":  "53EB6F26498148FCB5A013DCB307851CBB6745AD3DC607FB524E779AFE61E2FA",
-    "publishedAt":  "2026-10-10",
-    "url":  "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.12/AuroraMusic.exe",
-    "notes":  "音源：移除内置在线源标签，内置六音官方自定义源，默认热榜改为QQ音乐热歌榜Top50，播放/下载经六音换源；音效窗口重排并新增高级音效、主按钮可开关；桌面歌词新增底色方案、宽度自适应、置顶与图钉锁定；快捷键全面增强；音乐库新增列表记忆，启动约40ms直载并后台增量对账，添加按钮带下拉菜单；修复渲染看门狗离屏误判。"
+  "version": "1.0.13",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.13/AuroraMusic.exe",
+  "size": 741888,
+  "sha256": "E694013820D93D583C2BCE5B87495A273E2B977FB798D584011498C718210265",
+  "publishedAt": "2026-10-10",
+  "notes": "修复在线音乐热歌榜列表点击无响应（空结果层拦截鼠标事件）；自更新原地覆盖，保留本地中文文件名「极光音乐.exe」。"
 }
