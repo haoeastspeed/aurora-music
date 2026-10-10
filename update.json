@@ -1,8 +1,8 @@
 {
-  "version": "1.0.15",
-  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.15/AuroraMusic.exe",
-  "size": 751616,
-  "sha256": "2426BE145CD3389A6F84043903D941254BF6A6A4F749ED1264C66900E3264719",
-  "publishedAt": "2026-10-10",
-  "notes": "在线切歌大幅提速：多线路并发竞速、短超时、会话缓存，双击即提示并默认以320K播放；音源下拉更名“音源选择”并重做为深色主题模板；主题与配色切换即时生效免重启；修复关闭最小化到托盘首次不生效；启动默认不显示桌面歌词；下载列表末尾按钮改为“打开所在文件夹/移除任务”并加中文提示。"
+  "version": "1.0.16",
+  "url": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.16/AuroraMusic.exe",
+  "notes": "- 修复切换主题/配色报“只读状态”，换肤即时生效\n- QQ音乐热歌榜返回完整 Top100\n- 修复启动后桌面歌词按钮仍显开启态\n- 本地音乐库启动即刻显示，仅首次扫描",
+  "size": 755712,
+  "sha256": "4C1F5968A1B226C37EAB6E62448D9ED9CFF8D88B0AD4A1D356D5B408235588AD",
+  "publishedAt": "2026-10-10"
 }
