@@ -1,9 +1,9 @@
 {
-  "version": "1.0.20",
-  "releaseUrl": "https://github.com/haoeastspeed/aurora-music/releases/tag/v1.0.20",
-  "downloadUrl": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.20/AuroraMusic.exe",
-  "size": 781824,
-  "sha256": "F9A9D5BA29CF8F154F882BBF74A53F565B4C70342D35EBCDC2E8C3E6343C9B15",
-  "publishedAt": "2026-10-10",
-  "notes": "极光音乐 v1.0.20\n\n本次更新（资源占用与在线体验）：\n- 封面解码只保留可见行，滚动回收，列表位图降宽，内存峰值明显下降\n- 封面去重表加上限并在扫描后清理\n- 频谱 Hann 窗预计算、去除每帧冗余裁剪、暂停/停止后空闲挂起\n- 音源多后端健康测速与失败自动切换，切歌预解析提速\n- 歌词自动匹配增强，支持翻译/罗马音双行\n\n下载后如被 Windows 标记，右键文件属性解除锁定即可。"
+  "version": "1.0.21",
+  "releaseUrl": "https://github.com/haoeastspeed/aurora-music/releases/tag/v1.0.21",
+  "downloadUrl": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.21/AuroraMusic.exe",
+  "size": 787456,
+  "sha256": "E0B0CDF53EC3B02BFD40E23C9E2315B8C92A461E82319C22748DD6F1FCECED9A",
+  "publishedAt": "2026-10-11",
+  "notes": "极光音乐 v1.0.21\n\n本次更新（搜索与歌单管理增强）：\n- 在线搜索结果支持按时长区间筛选、仅显示无损\n- 搜索关键字在歌名/艺人中高亮显示\n- 跨音源去重时，同版本保留更高音质、更大文件\n- 筛选条件持久化保存，结果数量实时统计\n\n下载后如被 Windows 标记，右键文件属性解除锁定即可。"
 }
