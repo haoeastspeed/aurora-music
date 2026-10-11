@@ -1,9 +1,9 @@
 {
-  "version": "1.0.22",
-  "releaseUrl": "https://github.com/haoeastspeed/aurora-music/releases/tag/v1.0.22",
-  "downloadUrl": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.22/AuroraMusic.exe",
-  "size": 790528,
-  "sha256": "8be0f01a661582861e03975e7f80cb17551429119e9f784a90fc937082cb6bc5",
+  "version": "1.0.23",
+  "releaseUrl": "https://github.com/haoeastspeed/aurora-music/releases/tag/v1.0.23",
+  "downloadUrl": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.23/AuroraMusic.exe",
+  "size": 795136,
+  "sha256": "C0338C5EF22F015F82B6AD972D3CEE1F6CFF347AB30EA403F11B6331F8A7391E",
   "publishedAt": "2026-10-11",
-  "notes": "极光音乐 v1.0.22\n\n本次更新（新增 Meting 聚合音源 + 解析提速）：\n- 新增标准 Meting 聚合音源，聚合网易云、酷狗两大平台\n- 在线播放默认使用 320k 高音质，切歌解析更快\n- 无损 FLAC 下载经流头魔数校验，确认真实无损、不冒充\n- 音源解析增加总超时控制，高音质线路无响应约 15 秒即回退\n- 修复频谱柱数随窗口自适应、移除频谱右上角标记\n\n下载后如被 Windows 标记，右键文件属性解除锁定即可。"
+  "notes": "极光音乐 v1.0.23\n\n本次更新（新增 Meting 聚合音源 + 解析提速）：\n- 新增标准 Meting 聚合音源，聚合网易云、酷狗两大平台\n- 在线播放默认使用 320k 高音质，切歌解析更快\n- 无损 FLAC 下载经流头魔数校验，确认真实无损、不冒充\n- 音源解析增加总超时控制，高音质线路无响应约 15 秒即回退\n- 修复频谱柱数随窗口自适应、移除频谱右上角标记\n\n下载后如被 Windows 标记，右键文件属性解除锁定即可。"
 }
