@@ -1,9 +1,9 @@
 {
-  "version": "1.0.23",
-  "releaseUrl": "https://github.com/haoeastspeed/aurora-music/releases/tag/v1.0.23",
-  "downloadUrl": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.23/AuroraMusic.exe",
+  "version": "1.0.24",
+  "releaseUrl": "https://github.com/haoeastspeed/aurora-music/releases/tag/v1.0.24",
+  "downloadUrl": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.24/AuroraMusic.exe",
   "size": 795136,
-  "sha256": "C0338C5EF22F015F82B6AD972D3CEE1F6CFF347AB30EA403F11B6331F8A7391E",
-  "publishedAt": "2026-10-11",
-  "notes": "极光音乐 v1.0.23\n\n本次更新：\n- 跨音源聚合竞速：六音平台线路与 Meting（网易云/酷狗）并行解析，切歌更快（实测平均约 0.9 秒）\n- 无损资源跨源补位：六音无无损的曲目自动由其它音源补真 FLAC，流头魔数校验杜绝假无损\n- 频谱与歌词之间增加常驻分割线\n- 在线播放默认 320k，兼顾音质与流畅度\n\n下载后如被 Windows 标记，右键文件属性解除锁定即可。"
+  "sha256": "1893958E5594D86CABF23FB8C542038D45741BEBC60BADC0ACEB9477AB149F21",
+  "publishedAt": "2026-10-12",
+  "notes": "极光音乐 v1.0.24\n\n本次更新：\n- 修复音量图标：声波由重叠的月牙形改为标准两道清晰声波弧\n- 统一音量 / 静音图标的喇叭造型\n- 全面排查其余图标，几何正常\n\n下载后如被 Windows 标记，右键文件属性解除锁定即可。"
 }
