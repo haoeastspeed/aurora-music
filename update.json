@@ -1,9 +1,9 @@
 {
-  "version": "1.0.25",
-  "releaseUrl": "https://github.com/haoeastspeed/aurora-music/releases/tag/v1.0.25",
-  "downloadUrl": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.25/AuroraMusic.exe",
-  "size": 802816,
-  "sha256": "270EAD8395DC5406F341685019F121E1450FBA04E17C836794B3CE49830523A9",
+  "version": "1.0.26",
+  "releaseUrl": "https://github.com/haoeastspeed/aurora-music/releases/tag/v1.0.26",
+  "downloadUrl": "https://github.com/haoeastspeed/aurora-music/releases/download/v1.0.26/AuroraMusic.exe",
+  "size": 805888,
+  "sha256": "83B24369DBCA9C9668DBEAA7960822CBE4492161A592FE1608FDC24A22A7B30B",
   "publishedAt": "2026-10-12",
-  "notes": "极光音乐 v1.0.25\n\n本次更新：\n- 音源升级：Meting 聚合源精简为高可靠网易云线路，与六音跨源竞速，原平台失败/慢时自动以网易云同名版本兜底，无损命中率提升\n- 搜索跟随音源：在“音源选择”中切换源后，搜索结果仅来自所选音源（自动模式为多源聚合）\n- 搜索结果可靠性排序：高概率可播、无损曲目优先展示\n- 桌面歌词新增“窗口置底”，与置顶 / 普通三态切换并记忆\n- 下载完成列表新增“播放”与“添加到播放列表”按钮\n- 修复主题切换时共享画刷被冻结导致的只读报错，主题 / 配色切换即时生效\n- 在线播放与下载解析统一在后台线程，切歌更稳定\n\n下载后如被 Windows 标记，右键文件属性解除锁定即可。"
+  "notes": "极光音乐 v1.0.26\n\n本次更新：\n- 修复 KTV、音乐厅等音效场景的轻微杂音：混响 / 回声改为增益守恒结构，杜绝湿声能量累积导致的软削波\n- 提升 QQ音乐等曲目的播放成功率：聚合兜底改用主歌手匹配、支持外语 / 多歌手宽松命中，并放宽竞速超时\n- 下载管理记录本地持久化：关闭后重新打开，已完成与下载记录不再丢失，移除 / 清空即时同步\n- 新增 4 种音效场景：HiFi高保真、影院环绕、臻品母带、混响增强\n\n下载后如被 Windows 标记，右键文件属性解除锁定即可。"
 }
